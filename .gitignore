@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Workaround to use a venv
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
